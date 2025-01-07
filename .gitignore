@@ -485,5 +485,4 @@ $RECYCLE.BIN/
 API/appsettings.json
 .vscode/settings.json
 .vscode/tasks.json
-API/dating.db-wal
-API/dating.db-shm
+
