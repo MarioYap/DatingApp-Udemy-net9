@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers;
 
-public class UsersController(DataContext context) : BaseAPIController
+public class UsersController(DataContext context) : BaseApiController
 {
     [AllowAnonymous]
     [HttpGet]
